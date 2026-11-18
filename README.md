@@ -1,8 +1,8 @@
 ### Hi there 👋, Hey, I am Rimon
 #### I am a Full Stack web Developer
-![I am a Full Stack web Developer](https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D)
+![I am a Full Stack web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-👋 Hi, I'm Rimon Hasan!
+ Hi, I'm Rimon Hasan!
 
 💻 I'm a passionate Full Stack Web Developer from Bangladesh.
 
